@@ -9,7 +9,6 @@ from ..query_recommend import query_recommend
 from .reply_module import ReplyModule
 from .dialog_state import DialogState
 from .context_query_engine import context_query_engine
-from src.model.dto.response.chat_response_dto import ChatResponseDTO
 import asyncio
 from src.config import setup_logging
 
